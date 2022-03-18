@@ -1,6 +1,4 @@
-# Webpack Starter
-
-## Configuración de Webpack para aplicaciones de JavaScript.
+##Aplicación para control de tareas desarrollada con JavaScript
 
 ### Usar node para reconstruir los modulos. 
 ```
